@@ -1,4 +1,4 @@
-# How to add extension for automation test in Behave for [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Python-selenium-add-extension)
+# How to add extension for automation test in Python-selenium for [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Python-selenium-add-extension)
 
 If your webapp requires an extension for automation test in Python-selenium on Lambdatest, you can use the following steps to upload extension and run your test. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
 
